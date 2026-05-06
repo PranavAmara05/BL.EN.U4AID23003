@@ -50,3 +50,16 @@ request body
 "rollNo":"BL.EN.U4AID23003",
 "accessCode":"PTBMmQ"
 }
+
+
+
+[Running] node "c:\Users\prana\OneDrive\Documents\GitHub\BL.EN.U4AID23003\notification_app_be\register.js"
+Registration successful:
+{
+  email: 'bl.en.u4aid23003@bl.students.amrita.edu',
+  name: 'amara pranav',
+  rollNo: 'bl.en.u4aid23003',
+  accessCode: 'PTBMmQ',
+  clientID: 'e8c99f7a-1892-41fe-a826-5ee59f7beff3',
+  clientSecret: 'EBFbhhQKEfCkUUns'
+}
